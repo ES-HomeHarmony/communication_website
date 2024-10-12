@@ -20,7 +20,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'HomeHarmony', // Usually your GitHub org/user name.
+  organizationName: 'ES-HomeHarmony', // Usually your GitHub org/user name.
   projectName: 'communication_website', // Usually your repo name.
 
   onBrokenLinks: 'throw',
