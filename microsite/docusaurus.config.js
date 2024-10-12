@@ -4,7 +4,7 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -80,60 +80,31 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentation',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/ES-HomeHarmony',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            href: 'https://ua-team-c5n3d8fj.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog',
+            label: 'Jira',
             position: 'right',
           },
         ],
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        logo: {
+          alt: 'HomeHarmony repository on GitHub',
+          src: 'img/icons8-github-96.png',
+          href: 'https://github.com/ES-HomeHarmony',
+          width: 40,
+          height: 40,
+        },
+        copyright: `<a href="docs/about_us">Group 2</a> <br> <a href="https://www.ua.pt/pt/uc/2381">Software Engineering</a> Project, <a href ="https://www.ua.pt/">University of Aveiro</a> <br> Copyright © ${new Date().getFullYear()} HomeHarmony, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
