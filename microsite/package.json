@@ -2,7 +2,7 @@
   "name": "microsite",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://es-homeharmony.github.io/communication_website/microsite",
+  "homepage": "https://es-homeharmony.github.io/communication_website/",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",

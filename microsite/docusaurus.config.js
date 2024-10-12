@@ -13,15 +13,15 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://es-homeharmony.github.io/communication_website/',
+  url: 'https://es-homeharmony.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/microsite/',
+  baseUrl: '/communication_website/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'HomeHarmony', // Usually your GitHub org/user name.
-  projectName: 'microsite', // Usually your repo name.
+  projectName: 'communication_website', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
