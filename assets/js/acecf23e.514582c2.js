@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmicrosite=self.webpackChunkmicrosite||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/microsite/blog","blogTitle":"Blog","authorsListPath":"/microsite/blog/authors"}')}}]);
