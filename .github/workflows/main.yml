@@ -72,7 +72,7 @@ jobs:
       - name: Check repository structure
         run: ls -la
 
-      # Step 3: Check microsite folder for package-lock.json before doing anything else
+      # Step 3: Check microsite directory for package-lock.json
       - name: Check microsite directory for package-lock.json
         run: ls -la ./microsite
 
@@ -82,17 +82,26 @@ jobs:
           node-version: 20
           cache: npm
 
-      # Step 5: Install dependencies (in the microsite directory)
+      # Step 5: Confirm microsite directory before running npm ci
+      - name: Confirm microsite directory before npm ci
+        run: ls -la ./microsite
+
+      # Step 6: Clear npm cache before installing dependencies
+      - name: Clear npm cache
+        run: npm cache clean --force
+
+      # Step 7: Install dependencies
       - name: Install dependencies
         run: npm ci
         working-directory: ./microsite
 
-      # Step 6: Build the website (inside microsite folder)
+
+      # Step 7: Build website
       - name: Build website
         run: npm run build
         working-directory: ./microsite
 
-      # Step 7: Deploy to GitHub Pages
+      # Step 8: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
