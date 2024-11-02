@@ -7,7 +7,7 @@ authors: [sara, tiago]
 # Sprint 1
 
 **From**: 2024/10/13
-**To**: 2024-11-04
+**To**: 2024/10/21
 
 **Scrum Master**: Sara Almeida
 
