@@ -1,9 +1,11 @@
 ---
-sidebar_position: 7
+sidebar_position: 10
 ---
 
 import Profile from '@site/static/img/profile.jpeg';
 import LandingLandlord from '@site/static/img/landlordpage.jpeg'
+import AddExpense from '@site/static/img/addExpense.png';
+import AddHouse from '@site/static/img/addHouse.png';
 
 # Web APP Interface
 
@@ -14,3 +16,11 @@ import LandingLandlord from '@site/static/img/landlordpage.jpeg'
 ## 2. Landlord Landing Page
 
 <img src={LandingLandlord} alt="Landing Page" width="700"/>
+
+## 3. Add House Page
+
+<img src={AddHouse} alt="Add House Page" width="700"/>
+
+## 3. Add Expense Page
+
+<img src={AddExpense} alt="Add House Page" width="700"/>

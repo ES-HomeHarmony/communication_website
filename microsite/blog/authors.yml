@@ -1,23 +1,24 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-  page: true
-  socials:
-    x: yangshunz
-    github: yangshun
+berto:
+  name: Roberto Castro
+  url: https://github.com/RobertoCastro391
+  image_url: https://github.com/RobertoCastro391.png
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+sara:
+  name: Sara Almeida
+  url: https://github.com/SardinhaAlmeida
+  image_url: https://github.com/SardinhaAlmeida.png
+
+tiago:
+  name: Tiago Gomes
+  url: https://github.com/caridade1706
+  image_url: https://github.com/caridade1706.png
+
+mariana:
+  name: Mariana Perna
+  url: https://github.com/MarianaPerna07
+  image_url: https://github.com/MarianaPerna07.png
+
+rafaela:
+  name: Rafaela Dias
+  url: https://github.com/rafaelaesdias
+  image_url: https://github.com/rafaelaesdias.png
