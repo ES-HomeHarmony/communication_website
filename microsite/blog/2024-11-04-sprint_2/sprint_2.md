@@ -28,7 +28,7 @@ The objective of this sprint is to make the entire landlord functionality operat
 ## Sprint Backlog
 
 | Taks (SCRUM-\*)  | Description                                   | Developer          | State | 
-| ---------------  | ----------------------------------            | ---------------    | ----- | 
+| ---------------  | --------------------------------------------- | ---------------    | ----- | 
 | SCRUM-82         | Addition of Expenses - API/Database           | Roberto Castro     | Done  |
 | SCRUM-105        | Addition of Expenses - Frontend               | Sara Almeida       | Done  |
 | SCRUM-106        | Addition of Expenses - Integration            | Roberto Castro     | Done  |
@@ -58,12 +58,12 @@ The objective of this sprint is to make the entire landlord functionality operat
 
 | User Stories  | Description                    | Developer     | State | Story Points |
 | --------------| ------------------------------ | ------------- | ----- | ------------ |
-| SCRUM-11      | Landlord Addition of Expenses  | All           | Done  | 9    |
-| SCRUM-6       | Management of Pending Payments | All           | Done  | 5    |
-| SCRUM-15      | Landlord Landing Page          | All           | Done  | 3    |
-| SCRUM-94      | Create Houses                  | All           | Done  | 4    |
-| SCRUM-28      | Landlord View Document History | All           | Done  | 6    |
-| SCRUM-97      | Add tenants to house           | All           | Done  | 8    |
+| SCRUM-11      | Landlord Addition of Expenses  | All           | Done  | 9            |
+| SCRUM-6       | Management of Pending Payments | All           | Done  | 5            |
+| SCRUM-15      | Landlord Landing Page          | All           | Done  | 3            |
+| SCRUM-94      | Create Houses                  | All           | Done  | 4            |
+| SCRUM-28      | Landlord View Document History | All           | Done  | 6            |
+| SCRUM-97      | Add tenants to house           | All           | Done  | 8            |
 
 ## Sprint Review
 
@@ -76,7 +76,3 @@ The objective of this sprint is to make the entire landlord functionality operat
 ## Sprint Retrospective
 
 Despite the unexpected departure of a team member, we managed to successfully achieve our sprint objectives. Although we faced several challenges and experienced an increased workload, the team adapted well, showing resilience and dedication to meet our goals.
-
-## Sprint Burndown Chart
-
-*![Burndown Chart](../../static/img/sprints/burndown_chart_sprint_1.png)* -->

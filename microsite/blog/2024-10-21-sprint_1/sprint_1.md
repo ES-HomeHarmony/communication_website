@@ -18,68 +18,56 @@ authors: [sara, tiago]
 ## Sprint Goal
 
 The main goal for this sprint is to incorporate AWS Cognito IDP with our application and test it. We also aim to learn about AWS services by deploying our frontend and usermicroservice and hosting our DBs.
-<!-- 
+
 | Expected     | Quantity |
 | ------------ | -------- |
-| Tasks        | 12       |
-| Epics        | 1        |
-| Story Points | 7        |
+| Tasks        | 22       |
+| Epics        | 2        |
+| Story Points | 27       |
 
 ## Sprint Backlog
 
-| Taks (SCRUM-\*) | Description                 | Developer     | State | 
-| --------------- | --------------------------- | ------------- | ----- | 
-| SCRUM-8         | Landing Page - Frontend            | Joaquim Rosa      | Done  |
-| SCRUM-9         | Landing Page - Testing             | Miguel Belchior   | Done  |
-| SCRUM-10        | AWS Cognito Setup                  | André Oliveira    | Done  |
-| SCRUM-11        | AWS Cognito Setup                  | André Oliveira    | Done  |
-| SCRUM-12        | API Authentication and Authorization | André Oliveira  | Done  |
-| SCRUM-13        | Landing Page - PWA Support           | Joaquim Rosa    | Done  |
-| SCRUM-14        | API Authentication and Authorization | All             | Done  |
-| SCRUM-15        | Landing Page - Little Refacture      | Hugo Correia    | Done  |
-| SCRUM-16        | Backend Testing                      | Miguel Belchior | Done  |
-| SCRUM-17        | Link Back-end with Front-end         | Hugo Correia    | Done  |
-| SCRUM-18        | User Login - Testing              | Joaquim Rosa       | Done  |
-| SCRUM-19        | User Registration - Testing       | Joaquim Rosa       | Done  |
-
-### Task Status (Completed/Not Completed)
-
-- [x] SCRUM-8: Landing Page - Frontend
-- [x] SCRUM-9: Landing Page - Testing
-- [x] SCRUM-10: AWS Cognito Setup
-- [x] SCRUM-11: AWS Cognito Setup
-- [x] SCRUM-12: API Authentication and Authorization
-- [x] SCRUM-13: Landing Page - PWA Support
-- [x] SCRUM-14: API Authentication and Authorization
-- [x] SCRUM-15: Landing Page - Little Refacture
-- [x] SCRUM-16: Backend Testing
-- [x] SCRUM-17: Link Back-end with Front-end
-- [x] SCRUM-18: User Login - Testing
-- [x] SCRUM-19: User Registration - Testing
-
+| Tasks (SCRUM-*) | Description                             | Developer        | State |
+| --------------- | --------------------------------------- | -----------------| ----- |
+| SCRUM-8         | User Login                              | Tiago Gomes      | Done  |
+| SCRUM-2         | User Registration                       | Sara Almeida     | Done  |
+| SCRUM-11        | Landlord Addition of Expenses           | Mariana Perna    | Done  |
+| SCRUM-14        | Tenant Landing Page                     | Sara Almeida     | Done  |
+| SCRUM-15        | Landlord Landing Page                   | Roberto Castro   | Done  |
+| SCRUM-16        | User Profile Page                       | Rafaela Dias     | Done  |
+| SCRUM-18        | Deploy User Microservice in AWS ECS     | Tiago Gomes      | Done  |
+| SCRUM-20        | Deploy Frontend Container in AWS ECS    | Mariana Perna    | Done  |
+| SCRUM-21        | AWS Networking Setup                    | Sara Almeida     | Done  |
+| SCRUM-23        | Initial AWS Database Configuration      | Tiago Gomes      | Done  |
+| SCRUM-24        | Link Frontend with Backend              | Mariana Perna    | Done  |
+| SCRUM-26        | Deploy Landlord Microservice in AWS ECS | Roberto Castro   | Done  |
 
 ## User Stories
 
-| User Stories    | Description                 | Developer     | State | Story Points |
-| --------------- | --------------------------- | ------------- | ----- | ------------ |
-| SCRUM-5         | User Registration            | All          | Done  | 3    |
-| SCRUM-6         | User Login                   | All          | Done  | 3    |
-| SCRUM-7         | Landing Page                 | All          | Done  | 1    |
+| User Stories    | Description                   | Developer      | State | Story Points |
+| --------------- | ----------------------------- | -------------- | ----- | ------------ |
+| SCRUM-5         | User Registration             | All            | Done  | 3            |
+| SCRUM-6         | User Login                    | All            | Done  | 3            |
+| SCRUM-7         | Landlord Addition of Expenses | All            | Done  | 6            |
+| SCRUM-8         | Tenant Landing Page           | Joaquim Rosa   | Done  | 3            |
+| SCRUM-9         | Landlord Landing Page         | Hugo Correia   | Done  | 5            |
+| SCRUM-10        | User Profile Page             | Joaquim Rosa   | Done  | 3            |
+| SCRUM-11        | Deploy User Microservice      | André Oliveira | Done  | 4            |
 
-Team Velocity: 7
+Team Velocity: 27
 
 ## Sprint Review
 
 | Concluded    | Quantity |
 | ------------ | -------- |
-| Tasks        | 12       |
-| Epics        | 0        |
-| Story Points | 7        |
+| Tasks        | 22       |
+| Epics        | 2        |
+| Story Points | 27       |
 
 ## Sprint Retrospective
 
-Despite the short length of this first sprint, we didn’t expect to deliver a large number of features. However, we were able to complete all the tasks we had planned. These include three user stories related to the user authentication epic: user registration, login, and the landing page.
+In this sprint, we focused on essential features, including user authentication and core functionality for landlords and tenants. We successfully completed 22 tasks covering various parts of the user journey, from registration and login to expense management and profile setup. Additionally, we deployed core services to AWS ECS, configured databases, and established networking. All planned tasks were completed, reflecting the team's strong commitment and efficient collaboration.
 
 ## Sprint Burndown Chart
 
-*![Burndown Chart](../../static/img/sprints/burndown_chart_sprint_1.png)* -->
+![Burndown Chart](../../static/img/burndown_chart_sprint_1.png)
