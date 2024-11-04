@@ -17,7 +17,7 @@ authors: [mariana, berto]
 
 ## Sprint Goal
 
-The objective of this sprint is to make the entire landlord functionality operational and resolve any security issues. Additionally, we will complete the deployment of the house management microservice, and explore AWS S3 and CloudFront services for further integration.
+The objective of this sprint is to make the entire landlord functionality operational and resolve any security issues. Additionally, we will explore AWS S3 to be able to store all files that are necessary.
 
 | Expected     | Quantity |
 | ------------ | -------- |
