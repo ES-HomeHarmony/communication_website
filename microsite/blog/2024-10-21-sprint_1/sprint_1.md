@@ -46,13 +46,13 @@ The main goal for this sprint is to incorporate AWS Cognito IDP with our applica
 
 | User Stories    | Description                   | Developer      | State | Story Points |
 | --------------- | ----------------------------- | -------------- | ----- | ------------ |
-| SCRUM-5         | User Registration             | All            | Done  | 3            |
-| SCRUM-6         | User Login                    | All            | Done  | 3            |
-| SCRUM-7         | Landlord Addition of Expenses | All            | Done  | 6            |
-| SCRUM-8         | Tenant Landing Page           | Joaquim Rosa   | Done  | 3            |
-| SCRUM-9         | Landlord Landing Page         | Hugo Correia   | Done  | 5            |
-| SCRUM-10        | User Profile Page             | Joaquim Rosa   | Done  | 3            |
-| SCRUM-11        | Deploy User Microservice      | André Oliveira | Done  | 4            |
+| SCRUM-5         | User Registration             | Mariana Perna  | Done  | 3            |
+| SCRUM-6         | User Login                    | Mariana Perna  | Done  | 3            |
+| SCRUM-7         | Landlord Addition of Expenses | Tiago Gomes    | Done  | 6            |
+| SCRUM-8         | Tenant Landing Page           | Sara Almeida   | Done  | 3            |
+| SCRUM-9         | Landlord Landing Page         | Roberto Castro | Done  | 5            |
+| SCRUM-10        | User Profile Page             | Rafaela Dias   | Done  | 3            |
+| SCRUM-11        | Deploy User Microservice      | Roberto Castro | Done  | 4            |
 
 Team Velocity: 27
 
