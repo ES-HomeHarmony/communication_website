@@ -76,3 +76,7 @@ The objective of this sprint is to make the entire landlord functionality operat
 ## Sprint Retrospective
 
 Despite the unexpected departure of a team member, we managed to successfully achieve our sprint objectives. Although we faced several challenges and experienced an increased workload, the team adapted well, showing resilience and dedication to meet our goals.
+
+## Sprint Burndown Chart
+
+![Burndown Chart](../../static/img/sprint2.png)
