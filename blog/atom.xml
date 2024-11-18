@@ -2,11 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://es-homeharmony.github.io/communication_website/blog</id>
     <title>HomeHarmony Blog</title>
-    <updated>2024-11-04T00:00:00.000Z</updated>
+    <updated>2024-11-18T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://es-homeharmony.github.io/communication_website/blog"/>
     <subtitle>HomeHarmony Blog</subtitle>
     <icon>https://es-homeharmony.github.io/communication_website/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sprint 3]]></title>
+        <id>https://es-homeharmony.github.io/communication_website/blog/Sprint 3</id>
+        <link href="https://es-homeharmony.github.io/communication_website/blog/Sprint 3"/>
+        <updated>2024-11-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From: 2024/11/05]]></summary>
+        <content type="html"><![CDATA[<p><strong>From</strong>: 2024/11/05
+<strong>To</strong>: 2024/11/18</p>
+<p><strong>Scrum Master</strong>: Tiago Gomes</p>
+<p><strong>Product Owner</strong>: Sara Almeida</p>
+<p><strong>Developers</strong>: Mariana Perna, Roberto Castro</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-goal">Sprint Goal<a href="https://es-homeharmony.github.io/communication_website/blog/Sprint%203#sprint-goal" class="hash-link" aria-label="Direct link to Sprint Goal" title="Direct link to Sprint Goal">​</a></h2>
+<p>The goal for this sprint was to start developing the notification microservice so the landlord can invite tenants, through notification, to a house. This way they can better manage the expenses and we get to develop the tenant side of seeing the expenses and submit issues.</p>
+<table><thead><tr><th>Expected</th><th>Quantity</th></tr></thead><tbody><tr><td>Stories</td><td>6</td></tr><tr><td>Tasks</td><td>1</td></tr><tr><td>Epics</td><td>3</td></tr><tr><td>Story Points</td><td>24</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-backlog">Sprint Backlog<a href="https://es-homeharmony.github.io/communication_website/blog/Sprint%203#sprint-backlog" class="hash-link" aria-label="Direct link to Sprint Backlog" title="Direct link to Sprint Backlog">​</a></h2>
+<table><thead><tr><th>Tasks (SCRUM-*)</th><th>Description</th><th>Assignee</th><th>State</th></tr></thead><tbody><tr><td>SCRUM-76</td><td>Document History - API/Database</td><td>Sara Almeida</td><td>Done</td></tr><tr><td>SCRUM-78</td><td>Document History - Sort/Filter</td><td>Sara Almeida</td><td>Done</td></tr><tr><td>SCRUM-79</td><td>Document History - S3 metadata storage</td><td>Roberto Castro</td><td>Done</td></tr><tr><td>SCRUM-80</td><td>Document History - Testing</td><td>Tiago Gomes</td><td>In Progress</td></tr><tr><td>SCRUM-104</td><td>Document History - Frontend</td><td>Roberto Castro</td><td>Done</td></tr><tr><td>SCRUM-120</td><td>Inviting tenants</td><td>Tiago Gomes</td><td>To-do</td></tr><tr><td>SCRUM-88</td><td>Automatic Division of Expenses - API/Database</td><td>-</td><td>To-do</td></tr><tr><td>SCRUM-109</td><td>Automatic Division of Expenses - Frontend</td><td>-</td><td>To-do</td></tr><tr><td>SCRUM-92</td><td>Automatic Division of Expenses - Testing</td><td>-</td><td>To-do</td></tr><tr><td>SCRUM-113</td><td>View Reported Issues - API/Database</td><td>-</td><td>To-do</td></tr><tr><td>SCRUM-114</td><td>View Reported Issues - Frontend</td><td>-</td><td>To-do</td></tr><tr><td>SCRUM-115</td><td>View Reported Issues - Testing</td><td>-</td><td>To-do</td></tr><tr><td>SCRUM-116</td><td>Check Submited Issues - API/Database</td><td>-</td><td>To-do</td></tr><tr><td>SCRUM-117</td><td>Check Submited Issues - Frontend</td><td>-</td><td>To-do</td></tr><tr><td>SCRUM-118</td><td>Check Submited Issues - Testing</td><td>-</td><td>To-do</td></tr><tr><td>SCRUM-110</td><td>Submit Issue - API/Database</td><td>-</td><td>To-do</td></tr><tr><td>SCRUM-111</td><td>Submit Issue - Frontend</td><td>-</td><td>To-do</td></tr><tr><td>SCRUM-112</td><td>Submit Issue - Testing</td><td>-</td><td>To-do</td></tr><tr><td>SCRUM-119</td><td>Notification Microservice setup</td><td>Roberto Castro</td><td>To-do</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="user-stories">User Stories<a href="https://es-homeharmony.github.io/communication_website/blog/Sprint%203#user-stories" class="hash-link" aria-label="Direct link to User Stories" title="Direct link to User Stories">​</a></h2>
+<table><thead><tr><th>User Stories</th><th>Description</th><th>Developer</th><th>State</th><th>Story Points</th></tr></thead><tbody><tr><td>SCRUM-28</td><td>Landlord View Document History</td><td>None</td><td>In progess</td><td>6</td></tr><tr><td>SCRUM-120</td><td>Inviting tenants</td><td>None</td><td>To-do</td><td>6</td></tr><tr><td>SCRUM-30</td><td>Automatic Division of Expenses</td><td>None</td><td>To-do</td><td>2</td></tr><tr><td>SCRUM-35</td><td>View All Reported Issues</td><td>None</td><td>To-do</td><td>3</td></tr><tr><td>SCRUM-34</td><td>Check Submitted Issues</td><td>None</td><td>To-do</td><td>3</td></tr><tr><td>SCRUM-33</td><td>Submit an Issues</td><td>None</td><td>To-do</td><td>4</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-review">Sprint Review<a href="https://es-homeharmony.github.io/communication_website/blog/Sprint%203#sprint-review" class="hash-link" aria-label="Direct link to Sprint Review" title="Direct link to Sprint Review">​</a></h2>
+<table><thead><tr><th>Concluded</th><th>Quantity</th></tr></thead><tbody><tr><td>Stories</td><td>0</td></tr><tr><td>Tasks</td><td>0</td></tr><tr><td>Epics</td><td>0</td></tr><tr><td>Story Points</td><td>0</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-retrospective">Sprint Retrospective<a href="https://es-homeharmony.github.io/communication_website/blog/Sprint%203#sprint-retrospective" class="hash-link" aria-label="Direct link to Sprint Retrospective" title="Direct link to Sprint Retrospective">​</a></h2>
+<p>As a team, we decided this would be a <strong>Sprint 0</strong>. We felt like we weren't sure of the direction we were going and we really wanted to take time thinking what was indeed valuable to our application and to our users. This way, we didn't make any progress this sprint concerning the development of features. Instead, we took a step back and re-evaluated our priorities, besides digging deeper into learning about terraform.</p>
+<p>From this, we concluded that the <em>Task Management Microservice</em> was not a priority nor it was inovative to our users. We decided to focus on improving the <em>Houses Management Microservice</em> and creating a solid <em>Notification Microservice</em>. We still intent to have landlords and tenants, but we think that the features of adding and managing expenses and managing issues are more valuable to our users as landlords and having a unified place to see all the expenses is the most valuable and inovative feature to our tenants.</p>
+<img src="https://es-homeharmony.github.io/communication_website/assets/images/Architecure_before-893d8464c793035c73cf45c1b482ad1a.png" alt="Architecture" width="600" height="400">
+<p>This way, from the backlog we had, Epics 2 and 4 will be removed and, for the next sprint, we will focus on continuing the development of the <em>Houses Management Microservice</em>. We feel like this was the best decision so we can deliver a more valuable product to our users.</p>]]></content>
+        <author>
+            <name>Tiago Gomes</name>
+            <uri>https://github.com/caridade1706</uri>
+        </author>
+        <author>
+            <name>Sara Almeida</name>
+            <uri>https://github.com/SardinhaAlmeida</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sprint 2]]></title>
         <id>https://es-homeharmony.github.io/communication_website/blog/Sprint 2</id>
@@ -28,7 +62,9 @@
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-review">Sprint Review<a href="https://es-homeharmony.github.io/communication_website/blog/Sprint%202#sprint-review" class="hash-link" aria-label="Direct link to Sprint Review" title="Direct link to Sprint Review">​</a></h2>
 <table><thead><tr><th>Concluded</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>24</td></tr><tr><td>Epics</td><td>1</td></tr><tr><td>Story Points</td><td>35</td></tr></tbody></table>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-retrospective">Sprint Retrospective<a href="https://es-homeharmony.github.io/communication_website/blog/Sprint%202#sprint-retrospective" class="hash-link" aria-label="Direct link to Sprint Retrospective" title="Direct link to Sprint Retrospective">​</a></h2>
-<p>Despite the unexpected departure of a team member, we managed to successfully achieve our sprint objectives. Although we faced several challenges and experienced an increased workload, the team adapted well, showing resilience and dedication to meet our goals.</p>]]></content>
+<p>Despite the unexpected departure of a team member, we managed to successfully achieve our sprint objectives. Although we faced several challenges and experienced an increased workload, the team adapted well, showing resilience and dedication to meet our goals.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-burndown-chart">Sprint Burndown Chart<a href="https://es-homeharmony.github.io/communication_website/blog/Sprint%202#sprint-burndown-chart" class="hash-link" aria-label="Direct link to Sprint Burndown Chart" title="Direct link to Sprint Burndown Chart">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Burndown Chart" src="https://es-homeharmony.github.io/communication_website/assets/images/sprint2-157722d8090111c0ac22fb2baf231394.png" width="1631" height="572" class="img_ev3q"></p>]]></content>
         <author>
             <name>Mariana Perna</name>
             <uri>https://github.com/MarianaPerna07</uri>
