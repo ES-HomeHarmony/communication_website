@@ -3,6 +3,7 @@ sidebar_position: 3
 ---
 
 import Architecture from '@site/static/img/Architecture.png';
+import deployment_architecture from '@site/static/img/deployment_architecture.png';
 
 # Architecture
 
@@ -20,7 +21,7 @@ The backend services are structured as **independent microservices**, each respo
 
 - **User Service**: Handles **all operations related to user management**, such as user registration and user data storage. This service interacts with AWS Cognito for authentication and authorization processes and performs all necessary *CRUD* operations on user data.
 
-- **Task Management Service**: This microservice is responsible for the **creation, assignment, and tracking of tasks**. It allows users to create tasks, set deadlines, assign tasks to specific household members, and track their completion. The service is also integrated with the reward system, where completed tasks earn points for users. Additionally, it communicates with the Notification Service to send task reminders.
+- **Task Management Service**: This microservice is responsible for the **creation, assignment, and tracking of tasks**. It allows users to create tasks, set deadlines, assign tasks to specific household members, and track their completion. The service is also integrated with the reward system, where completed tasks earn points for users. Additionally, it communicates with the Notification Service to send task reminders. **_NOTE:_** After some discussion among team members, this microservice will no longer be implemented.
 
 - **Expenses Management Service**: This service handles **expense management** within the household. It allows users to track shared household expenses, divide costs among members, and confirm payments. It also supports uploading receipts or bills for expenses. This service integrates with the Notification Service to send alerts about due or confirmed payments, ensuring transparency in financial matters.
 
@@ -31,4 +32,7 @@ The backend services are structured as **independent microservices**, each respo
 
 # Architecture Diagram
 <img src={Architecture} alt="Architecture" width="700"/>
+
+# Deployment Architecture Diagram
+<img src={deployment_architecture} alt="Architecture" width="700"/>
 

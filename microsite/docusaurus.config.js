@@ -104,7 +104,7 @@ const config = {
           width: 40,
           height: 40,
         },
-        copyright: `<a href="docs/about_us">Group 2</a> <br> <a href="https://www.ua.pt/pt/uc/2381">Software Engineering</a> Project, <a href ="https://www.ua.pt/">University of Aveiro</a> <br> Copyright © ${new Date().getFullYear()} HomeHarmony, Inc. Built with Docusaurus.`,
+        copyright: `<a href="./docs/about_us">Group 2</a> <br> <a href="https://www.ua.pt/pt/uc/2381">Software Engineering</a> Project, <a href ="https://www.ua.pt/">University of Aveiro</a> <br> Copyright © ${new Date().getFullYear()} HomeHarmony, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
