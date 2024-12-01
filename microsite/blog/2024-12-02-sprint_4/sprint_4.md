@@ -55,3 +55,7 @@ The goal for this sprint is to fully develop and test the feature of contract up
 ## Sprint Retrospective
 
 In this sprint, we focused on developing and testing the contract upload feature for landlords, securing file access in AWS S3, and setting up Terraform for deployment. The secure access to S3 files was successfully completed, ensuring a key feature of the application is ready for use. The initial Terraform setup is done, but there are still some issues that need to be addressed in the next sprint. Despite some delays in testing the contract upload functionality, the team worked collaboratively, completing all planned story points and delivering most features as expected. Overall, the sprint went well, with significant progress made toward the project’s goals.
+
+## Sprint Burndown Chart
+
+![Burndown Chart](../../static/img/burndown_chart_sprint_4.png)
