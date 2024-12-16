@@ -1,6 +1,6 @@
 ---
-slug: Sprint 4
-title: Sprint 4
+slug: Sprint 5
+title: Sprint 5
 authors: [sara, tiago]
 ---
 
@@ -13,7 +13,7 @@ authors: [sara, tiago]
 
 **Product Owner**: Tiago Gomes
 
-**Developers**: MAriana Perna, Roberto Castro
+**Developers**: Mariana Perna, Roberto Castro
 
 ## Sprint Goal
 
