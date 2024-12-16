@@ -57,4 +57,4 @@ For this sprint, we planed to start the development of the tenant side of the ap
 
 ## Sprint Burndown Chart
 
-![Burndown Chart](../../static/img/burndown_chart_sprint_4.png)
+![Burndown Chart](../../static/img/sprint5.png)

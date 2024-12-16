@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 
 import Architecture from '@site/static/img/Architecture.png';
-import deployment_architecture from '@site/static/img/deployment_architecture.png';
+import deployment_architecture from '@site/static/img/new_aws_architecture.png';
 
 # Architecture
 
