@@ -31,7 +31,7 @@ The goal for this sprint is to implement key notification features for both land
 
 | Issues (SCRUM-\*)| Description                                  | Assignee          | State | 
 | ---------------  | --------------------------------------------- | ---------------    | ----- | 
-| SCRUM-103         | CD Pipeline               | Mariana Perna      | Done  |
+| SCRUM-103         | CD Pipeline               | Mariana Perna      | To Do  |
 | SCRUM-37         | Notify After Contract Upload    | Tiago Gomes       | Done  |
 | SCRUM-147         | Hotfix - Updae Tenant addition logic        | Sara Almeida     | Done  |
 | SCRUM-38        | Notify the Tenant of a pending Expense        | Tiago Gomes     | Done  |
@@ -66,8 +66,14 @@ The goal for this sprint is to implement key notification features for both land
 
 ## Sprint Retrospective
 
-We were able to successfully meet the sprint goal by completing the planned stories and tasks. The team worked well together, and we were able to deliver the expected functionalities. The maisn time, in this sprint as in the previous one, was spent on the deployment.
+Unfortunately, we were unable to achieve full integration of our application's deployment during this sprint. However, we recognize the significant effort the team put in to tackle challenges and meet the sprint goals.
+
+Despite these obstacles, we successfully completed all planned stories, delivering the expected functionalities and ensuring progress aligned with our project roadmap. The team demonstrated excellent collaboration and adaptability, which enabled us to address critical issues efficiently.
+
+The main focus of this sprint, as in the previous one, was deployment. Most of our time was spent configuring and testing the infrastructure. One persistent issue was ensuring that the frontend received the JWT cookie correctly in the deployed environment, which remains unresolved but is a priority moving forward.
+
+Overall, looking back on the entirety of the project, we are proud of the progress we've made. From building robust functionalities to navigating complex deployment challenges, the project has been a valuable learning experience for everyone involved. The team’s dedication and persistence have been instrumental in delivering a solution that aligns with our objectives, even if certain aspects require further refinement.
 
 ## Sprint Burndown Chart
 
-![Burndown Chart](../../static/img/sprint6.png)
+![Burndown Chart](../../static/img/sprint7.png)
