@@ -2,11 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://es-homeharmony.github.io/communication_website/blog</id>
     <title>HomeHarmony Blog</title>
-    <updated>2024-12-16T00:00:00.000Z</updated>
+    <updated>2025-01-04T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://es-homeharmony.github.io/communication_website/blog"/>
     <subtitle>HomeHarmony Blog</subtitle>
     <icon>https://es-homeharmony.github.io/communication_website/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sprint 6]]></title>
+        <id>https://es-homeharmony.github.io/communication_website/blog/Sprint 6</id>
+        <link href="https://es-homeharmony.github.io/communication_website/blog/Sprint 6"/>
+        <updated>2025-01-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From: 2024/12/28]]></summary>
+        <content type="html"><![CDATA[<p><strong>From</strong>: 2024/12/28
+<strong>To</strong>: 2025/01/04</p>
+<p><strong>Scrum Master</strong>: Mariana Perna</p>
+<p><strong>Product Owner</strong>: Roberto Castro</p>
+<p><strong>Developers</strong>: Sara Almeida, Tiago Gomes</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-goal">Sprint Goal<a href="https://es-homeharmony.github.io/communication_website/blog/Sprint%206#sprint-goal" class="hash-link" aria-label="Direct link to Sprint Goal" title="Direct link to Sprint Goal">​</a></h2>
+<p>The goal for this sprint is to complete the inviting tenants logic, the issues submission and visualization functionalities and finalize the tenant dashboard. We have to implement the functionality of email notifications sending so it is possible to invite tenants. We will also complete the submit an issue functionality and the visualization of all the issues by the landlors. Finally, we will finish the tenant dashboard to show the expenses and issues for each house they have renting.</p>
+<table><thead><tr><th>Expected</th><th>Quantity</th></tr></thead><tbody><tr><td>Stories</td><td>4</td></tr><tr><td>Tasks</td><td>2</td></tr><tr><td>Bug</td><td>1</td></tr><tr><td>Epics</td><td>2</td></tr><tr><td>Story Points</td><td>18</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-backlog">Sprint Backlog<a href="https://es-homeharmony.github.io/communication_website/blog/Sprint%206#sprint-backlog" class="hash-link" aria-label="Direct link to Sprint Backlog" title="Direct link to Sprint Backlog">​</a></h2>
+<table><thead><tr><th>Issues (SCRUM-*)</th><th>Description</th><th>Assignee</th><th>State</th></tr></thead><tbody><tr><td>SCRUM-14</td><td>Tenant Landing Page</td><td>Sara Almeida</td><td>Done</td></tr><tr><td>SCRUM-33</td><td>Submit an Issue</td><td>Roberto Castro</td><td>Done</td></tr><tr><td>SCRUM-35</td><td>View All Reported Issues</td><td>Mariana Perna</td><td>Done</td></tr><tr><td>SCRUM-119</td><td>Notification Microservice Setup</td><td>Tiago Gomes</td><td>Done</td></tr><tr><td>SCRUM-120</td><td>Inviting Tenant</td><td>Tiago Gomes</td><td>Done</td></tr><tr><td>SCRUM-103</td><td>CD Pipeline</td><td>Mariana Perna</td><td>In progress</td></tr><tr><td>SCRUM-134</td><td>Fix Tenant Role in User Microservice</td><td>Roberto Castro</td><td>Done</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="user-stories">User Stories<a href="https://es-homeharmony.github.io/communication_website/blog/Sprint%206#user-stories" class="hash-link" aria-label="Direct link to User Stories" title="Direct link to User Stories">​</a></h2>
+<table><thead><tr><th>User Stories</th><th>Description</th><th>Developer</th><th>State</th><th>Story Points</th></tr></thead><tbody><tr><td>SCRUM-14</td><td>Tenant Landing Page</td><td>Sara Almeida</td><td>Done</td><td>5</td></tr><tr><td>SCRUM-33</td><td>Submit an Issue</td><td>Roberto Castro</td><td>Done</td><td>4</td></tr><tr><td>SCRUM-35</td><td>View All Reported Issues</td><td>Mariana Perna</td><td>Done</td><td>3</td></tr><tr><td>SCRUM-120</td><td>Inviting Tenant</td><td>Tiago Gomes</td><td>Done</td><td>6</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-review">Sprint Review<a href="https://es-homeharmony.github.io/communication_website/blog/Sprint%206#sprint-review" class="hash-link" aria-label="Direct link to Sprint Review" title="Direct link to Sprint Review">​</a></h2>
+<table><thead><tr><th>Concluded</th><th>Quantity</th></tr></thead><tbody><tr><td>Stories</td><td>4</td></tr><tr><td>Tasks</td><td>1</td></tr><tr><td>Bug</td><td>1</td></tr><tr><td>Epics</td><td>2</td></tr><tr><td>Story Points</td><td>18</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-retrospective">Sprint Retrospective<a href="https://es-homeharmony.github.io/communication_website/blog/Sprint%206#sprint-retrospective" class="hash-link" aria-label="Direct link to Sprint Retrospective" title="Direct link to Sprint Retrospective">​</a></h2>
+<p>We were able to successfully meet the sprint goal by completing the inviting tenants logic, the issues submission and visualization functionalities, and finalizing the tenant dashboard. The team worked collaboratively to address the tasks and user stories, ensuring that all features were implemented according to the acceptance criteria. Additionally, the bug related to the tenant role in the user microservice was fixed. We still need to improve our CD Pipeline has we are having some problems with the deployment of the services which will be a focus for the next sprint.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-burndown-chart">Sprint Burndown Chart<a href="https://es-homeharmony.github.io/communication_website/blog/Sprint%206#sprint-burndown-chart" class="hash-link" aria-label="Direct link to Sprint Burndown Chart" title="Direct link to Sprint Burndown Chart">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Burndown Chart" src="https://es-homeharmony.github.io/communication_website/assets/images/sprint6-1027305d60e40174eb4a836102c63283.png" width="1552" height="428" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Mariana Perna</name>
+            <uri>https://github.com/MarianaPerna07</uri>
+        </author>
+        <author>
+            <name>Roberto Castro</name>
+            <uri>https://github.com/RobertoCastro391</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sprint 5]]></title>
         <id>https://es-homeharmony.github.io/communication_website/blog/Sprint 5</id>
@@ -172,6 +205,42 @@
         <author>
             <name>Tiago Gomes</name>
             <uri>https://github.com/caridade1706</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sprint 7]]></title>
+        <id>https://es-homeharmony.github.io/communication_website/blog/Sprint 7</id>
+        <link href="https://es-homeharmony.github.io/communication_website/blog/Sprint 7"/>
+        <updated>2024-01-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From: 2024/12/28]]></summary>
+        <content type="html"><![CDATA[<p><strong>From</strong>: 2024/12/28
+<strong>To</strong>: 2025/01/04</p>
+<p><strong>Scrum Master</strong>: Tiago Gomes</p>
+<p><strong>Product Owner</strong>: Sara Almeida</p>
+<p><strong>Developers</strong>: Mariana Perna, Roberto Castro</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-goal">Sprint Goal<a href="https://es-homeharmony.github.io/communication_website/blog/Sprint%207#sprint-goal" class="hash-link" aria-label="Direct link to Sprint Goal" title="Direct link to Sprint Goal">​</a></h2>
+<p>The goal for this sprint is to implement key notification features for both landlords and tenants, such as pending expenses, contract uploads, and issues. Additionally, we aim to develop the functionality of automating expense division and enabling tenants to mark expenses as paid. The sprint also includes concluding the CD pipeline to streamline deployments.</p>
+<table><thead><tr><th>Expected</th><th>Quantity</th></tr></thead><tbody><tr><td>Stories</td><td>7</td></tr><tr><td>Tasks</td><td>2</td></tr><tr><td>Bug</td><td>1</td></tr><tr><td>Epics</td><td>2</td></tr><tr><td>Story Points</td><td>19</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-backlog">Sprint Backlog<a href="https://es-homeharmony.github.io/communication_website/blog/Sprint%207#sprint-backlog" class="hash-link" aria-label="Direct link to Sprint Backlog" title="Direct link to Sprint Backlog">​</a></h2>
+<table><thead><tr><th>Issues (SCRUM-*)</th><th>Description</th><th>Assignee</th><th>State</th></tr></thead><tbody><tr><td>SCRUM-103</td><td>CD Pipeline</td><td>Mariana Perna</td><td>To Do</td></tr><tr><td>SCRUM-37</td><td>Notify After Contract Upload</td><td>Tiago Gomes</td><td>Done</td></tr><tr><td>SCRUM-147</td><td>Hotfix - Updae Tenant addition logic</td><td>Sara Almeida</td><td>Done</td></tr><tr><td>SCRUM-38</td><td>Notify the Tenant of a pending Expense</td><td>Tiago Gomes</td><td>Done</td></tr><tr><td>SCRUM-36</td><td>Notify the Landlord of an Issue</td><td>Tiago Gomes</td><td>Done</td></tr><tr><td>SCRUM-135</td><td>Tenant marks expense as paid</td><td>Sara Almeida</td><td>Done</td></tr><tr><td>SCRUM-36</td><td>Notify the Landlord of Completed Payment</td><td>Tiago Gomes</td><td>Done</td></tr><tr><td>SCRUM-30</td><td>Automatic Division of Expenses</td><td>Mariana Perna</td><td>Done</td></tr><tr><td>SCRUM-29</td><td>Tenant View Contract</td><td>Roberto Castro</td><td>Done</td></tr><tr><td>SCRUM-148</td><td>Logging Update</td><td>Tiago Gomes</td><td>Done</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="user-stories">User Stories<a href="https://es-homeharmony.github.io/communication_website/blog/Sprint%207#user-stories" class="hash-link" aria-label="Direct link to User Stories" title="Direct link to User Stories">​</a></h2>
+<table><thead><tr><th>User Stories</th><th>Description</th><th>Developer</th><th>State</th><th>Story Points</th></tr></thead><tbody><tr><td>SCRUM-37</td><td>Notify After Contract Upload</td><td>Tiago Gomes</td><td>Done</td><td>2</td></tr><tr><td>SCRUM-38</td><td>Notify the Tenant of a pending Expense</td><td>Tiago Gomes</td><td>Done</td><td>2</td></tr><tr><td>SCRUM-36</td><td>Notify the Landlord of an Issue</td><td>Tiago Gomes</td><td>Done</td><td>2</td></tr><tr><td>SCRUM-135</td><td>Tenant marks expense as paid</td><td>Sara Almeida</td><td>Done</td><td>3</td></tr><tr><td>SCRUM-36</td><td>Notify the Landlord of Completed Payment</td><td>Tiago Gomes</td><td>Done</td><td>2</td></tr><tr><td>SCRUM-30</td><td>Automatic Division of Expenses</td><td>Mariana Perna</td><td>Done</td><td>3</td></tr><tr><td>SCRUM-29</td><td>Tenant View Contract</td><td>Roberto Castro</td><td>Done</td><td>5</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-review">Sprint Review<a href="https://es-homeharmony.github.io/communication_website/blog/Sprint%207#sprint-review" class="hash-link" aria-label="Direct link to Sprint Review" title="Direct link to Sprint Review">​</a></h2>
+<table><thead><tr><th>Concluded</th><th>Quantity</th></tr></thead><tbody><tr><td>Stories</td><td>7</td></tr><tr><td>Tasks</td><td>2</td></tr><tr><td>Bug</td><td>1</td></tr><tr><td>Epics</td><td>2</td></tr><tr><td>Story Points</td><td>19</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-retrospective">Sprint Retrospective<a href="https://es-homeharmony.github.io/communication_website/blog/Sprint%207#sprint-retrospective" class="hash-link" aria-label="Direct link to Sprint Retrospective" title="Direct link to Sprint Retrospective">​</a></h2>
+<p>Unfortunately, we were unable to achieve full integration of our application's deployment during this sprint. However, we recognize the significant effort the team put in to tackle challenges and meet the sprint goals.</p>
+<p>Despite these obstacles, we successfully completed all planned stories, delivering the expected functionalities and ensuring progress aligned with our project roadmap. The team demonstrated excellent collaboration and adaptability, which enabled us to address critical issues efficiently.</p>
+<p>The main focus of this sprint, as in the previous one, was deployment. Most of our time was spent configuring and testing the infrastructure. One persistent issue was ensuring that the frontend received the JWT cookie correctly in the deployed environment, which remains unresolved but is a priority moving forward.</p>
+<p>Overall, looking back on the entirety of the project, we are proud of the progress we've made. From building robust functionalities to navigating complex deployment challenges, the project has been a valuable learning experience for everyone involved. The team’s dedication and persistence have been instrumental in delivering a solution that aligns with our objectives, even if certain aspects require further refinement.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-burndown-chart">Sprint Burndown Chart<a href="https://es-homeharmony.github.io/communication_website/blog/Sprint%207#sprint-burndown-chart" class="hash-link" aria-label="Direct link to Sprint Burndown Chart" title="Direct link to Sprint Burndown Chart">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Burndown Chart" src="https://es-homeharmony.github.io/communication_website/assets/images/sprint7-e44f2853c7e2b62c849dfcd908fdcec6.png" width="1537" height="529" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Tiago Gomes</name>
+            <uri>https://github.com/caridade1706</uri>
+        </author>
+        <author>
+            <name>Sara Almeida</name>
+            <uri>https://github.com/SardinhaAlmeida</uri>
         </author>
     </entry>
 </feed>
